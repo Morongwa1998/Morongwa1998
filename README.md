@@ -1,12 +1,10 @@
 hello, I'm Morongwa Kgatla
 www.linkedin.com/in/morongwa-kgatla-b83688318 ![image](https://github.com/user-attachments/assets/1d1eb7d8-b2ef-424c-a097-944d973aafb2)
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am CompTIA-certified (A+, Security+, CYSA+) cybersecurity enthusiast with a strong IT foundation. I'm new to the industry, yet intensely passionate and dedicated to continous learning and professional development.
 
-Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+### Objective
+I am a recent cybersecurity analyst certification recipient eager to apply my knowledge and expand my skills sets, driven to solve complex security challenges, foster continous growth and contribute to the industry's advancement
 
 Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
